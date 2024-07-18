@@ -1,4 +1,4 @@
 nginx
 nginx:1.21.0
-nginx:1.26.1
+nginx:1.26.0
 zabbix:7.0.0
