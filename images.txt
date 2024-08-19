@@ -8,3 +8,4 @@ tomcat:9.0.91
 tomcat:10.1.25
 mysql:5.7.28
 tomcat:9.0.90
+tomcat:9.0.92
