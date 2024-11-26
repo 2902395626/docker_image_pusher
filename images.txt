@@ -47,5 +47,20 @@ zabbix/zabbix-build-base:7.0-centos-latest
 zabbix/zabbix-build-mysql:7.0-centos-latest
 
 
-
+zabbix/zabbix-server-mysql:7.0-bclinux-latest
+zabbix/zabbix-proxy-sqlite3:7.0-bclinux-latest
+zabbix/zabbix-agent:7.0-bclinux-latest
+zabbix/zabbix-web-nginx-mysql:7.0-bclinux-latest
+zabbix/zabbix-proxy-mysql:7.0-bclinux-latest
+zabbix/zabbix-web-nginx-pgsql:7.0-bclinux-latest
+zabbix/zabbix-appliance:7.0-bclinux-latest
+zabbix/zabbix-web-apache-mysql:7.0-bclinux-latest
+zabbix/zabbix-agent2:7.0-bclinux-latest
+zabbix/zabbix-java-gateway:7.0-bclinux-latest
+zabbix/zabbix-web-apache-pgsql:7.0-bclinux-latest
+zabbix/zabbix-web-service:7.0-bclinux-latest
+zabbix/zabbix-build-sqlite3:7.0-bclinux-latest
+zabbix/zabbix-build-pgsql:7.0-bclinux-latest
+zabbix/zabbix-build-base:7.0-bclinux-latest
+zabbix/zabbix-build-mysql:7.0-bclinux-latest
 
