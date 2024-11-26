@@ -1,7 +1,10 @@
 nginx
 nginx:1.26.1
 mysql:5.7.44
+mysql:latest
+
 mysql:8.0.38
+mysql:8.0.39
 mysql:8.4.1
 mysql:9.0.0
 tomcat:9.0.91
@@ -63,4 +66,7 @@ zabbix/zabbix-build-sqlite3:7.0-bclinux-latest
 zabbix/zabbix-build-pgsql:7.0-bclinux-latest
 zabbix/zabbix-build-base:7.0-bclinux-latest
 zabbix/zabbix-build-mysql:7.0-bclinux-latest
+
+
+
 
