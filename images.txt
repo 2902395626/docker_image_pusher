@@ -3,14 +3,11 @@
 ######################################################
 redis:latest
 apache/kafka:latest
-#elasticsearch
-kibana
-logstash
+mysql:latest
+nginx:latest
+tomcat:latest
 
-#mysql:latest
-#nginx:latest
-#tomcat:latest
-#elasticsearch:latest
+
 
 #mysql:5.7.44
 #mysql:8.0.40
