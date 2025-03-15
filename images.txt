@@ -3,7 +3,7 @@
 ######################################################
 redis:latest
 apache/kafka:latest
-elasticsearch
+#elasticsearch
 kibana
 logstash
 
