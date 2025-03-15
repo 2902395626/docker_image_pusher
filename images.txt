@@ -2,9 +2,10 @@
 ################## 中间件 镜像文件 ####################
 ######################################################
 redis:latest
-kafka:latest
-zookeeper:latest
-
+apache/kafka:latest
+elasticsearch
+kibana
+logstash
 
 #mysql:latest
 #nginx:latest
