@@ -4,7 +4,7 @@ zabbix/zabbix-agent:7.0-centos-latest
 zabbix/zabbix-web-nginx-mysql:7.0-centos-latest
 zabbix/zabbix-proxy-mysql:7.0-centos-latest
 zabbix/zabbix-web-nginx-pgsql:7.0-centos-latest
-zabbix/zabbix-appliance:7.0-centos-latest
+#zabbix/zabbix-appliance:7.0-centos-latest
 zabbix/zabbix-web-apache-mysql:7.0-centos-latest
 zabbix/zabbix-agent2:7.0-centos-latest
 zabbix/zabbix-java-gateway:7.0-centos-latest
@@ -15,6 +15,6 @@ zabbix/zabbix-build-pgsql:7.0-centos-latest
 zabbix/zabbix-build-base:7.0-centos-latest
 zabbix/zabbix-build-mysql:7.0-centos-latest
 
-mysql:latest
-nginx:latest
-tomcat:latest
+#mysql:latest
+#nginx:latest
+#tomcat:latest
