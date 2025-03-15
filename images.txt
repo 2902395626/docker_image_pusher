@@ -2,6 +2,9 @@
 ################## 中间件 镜像文件 ####################
 ######################################################
 redis:latest
+kafka:latest
+zookeeper:latest
+
 
 #mysql:latest
 #nginx:latest
