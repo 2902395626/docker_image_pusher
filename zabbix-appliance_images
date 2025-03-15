@@ -1,0 +1,3 @@
+zabbix/zabbix-appliance:5.0-centos-latest
+zabbix/zabbix-appliance:6.0-centos-latest
+zabbix/zabbix-appliance:7.0-centos-latest
