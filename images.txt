@@ -1,9 +1,11 @@
 ###################################################### 
 ################## 中间件 镜像文件 ####################
 ######################################################
-mysql:latest
-nginx:latest
-tomcat:latest
+redis:latest
+
+#mysql:latest
+#nginx:latest
+#tomcat:latest
 #elasticsearch:latest
 
 #mysql:5.7.44
