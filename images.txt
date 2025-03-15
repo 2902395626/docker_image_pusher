@@ -5,7 +5,6 @@ zabbix/zabbix-agent:5.0-centos-latest
 zabbix/zabbix-web-nginx-mysql:5.0-centos-latest
 zabbix/zabbix-proxy-mysql:5.0-centos-latest
 zabbix/zabbix-web-nginx-pgsql:5.0-centos-latest
-#zabbix/zabbix-appliance:5.0-centos-latest
 zabbix/zabbix-web-apache-mysql:5.0-centos-latest
 zabbix/zabbix-agent2:5.0-centos-latest
 zabbix/zabbix-java-gateway:5.0-centos-latest
@@ -15,6 +14,10 @@ zabbix/zabbix-build-sqlite3:5.0-centos-latest
 zabbix/zabbix-build-pgsql:5.0-centos-latest
 zabbix/zabbix-build-base:5.0-centos-latest
 zabbix/zabbix-build-mysql:5.0-centos-latest
+#zabbix/zabbix-appliance:5.0-centos-latest
+zabbix/zabbix-server-pgsql:5.0-centos-latest
+zabbix/zabbix-snmptraps:5.0-centos-latest
+
 
 zabbix/zabbix-server-mysql:6.0-centos-latest
 zabbix/zabbix-proxy-sqlite3:6.0-centos-latest
@@ -22,7 +25,6 @@ zabbix/zabbix-agent:6.0-centos-latest
 zabbix/zabbix-web-nginx-mysql:6.0-centos-latest
 zabbix/zabbix-proxy-mysql:6.0-centos-latest
 zabbix/zabbix-web-nginx-pgsql:6.0-centos-latest
-#zabbix/zabbix-appliance:6.0-centos-latest
 zabbix/zabbix-web-apache-mysql:6.0-centos-latest
 zabbix/zabbix-agent2:6.0-centos-latest
 zabbix/zabbix-java-gateway:6.0-centos-latest
@@ -32,6 +34,9 @@ zabbix/zabbix-build-sqlite3:6.0-centos-latest
 zabbix/zabbix-build-pgsql:6.0-centos-latest
 zabbix/zabbix-build-base:6.0-centos-latest
 zabbix/zabbix-build-mysql:6.0-centos-latest
+#zabbix/zabbix-appliance:6.0-centos-latest
+zabbix/zabbix-server-pgsql:6.0-centos-latest
+zabbix/zabbix-snmptraps:6.0-centos-latest
 
 zabbix/zabbix-server-mysql:7.0-centos-latest
 zabbix/zabbix-proxy-sqlite3:7.0-centos-latest
@@ -39,7 +44,6 @@ zabbix/zabbix-agent:7.0-centos-latest
 zabbix/zabbix-web-nginx-mysql:7.0-centos-latest
 zabbix/zabbix-proxy-mysql:7.0-centos-latest
 zabbix/zabbix-web-nginx-pgsql:7.0-centos-latest
-#zabbix/zabbix-appliance:7.0-centos-latest
 zabbix/zabbix-web-apache-mysql:7.0-centos-latest
 zabbix/zabbix-agent2:7.0-centos-latest
 zabbix/zabbix-java-gateway:7.0-centos-latest
@@ -49,6 +53,9 @@ zabbix/zabbix-build-sqlite3:7.0-centos-latest
 zabbix/zabbix-build-pgsql:7.0-centos-latest
 zabbix/zabbix-build-base:7.0-centos-latest
 zabbix/zabbix-build-mysql:7.0-centos-latest
+#zabbix/zabbix-appliance:7.0-centos-latest
+zabbix/zabbix-server-pgsql:7.0-centos-latest
+zabbix/zabbix-snmptraps:7.0-centos-latest
 
 #mysql:latest
 #nginx:latest
