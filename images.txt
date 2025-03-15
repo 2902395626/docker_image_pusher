@@ -1,9 +1,4 @@
-nginx
-nginx:1.26.1
-mysql:5.7.44
 mysql:latest
-
-mysql:8.0.38
 mysql:8.0.40
 mysql:8.4.1
 mysql:9.0.0
@@ -11,7 +6,6 @@ tomcat:9.0.91
 tomcat:10.1.25
 mysql:5.7.28
 tomcat:9.0.90-jdk8
-
 
 zabbix/zabbix-server-mysql:5.0-centos-latest
 zabbix/zabbix-proxy-sqlite3:5.0-centos-latest
@@ -30,8 +24,6 @@ zabbix/zabbix-build-pgsql:5.0-centos-latest
 zabbix/zabbix-build-base:5.0-centos-latest
 zabbix/zabbix-build-mysql:5.0-centos-latest
 
-
-
 zabbix/zabbix-server-mysql:6.0-centos-latest
 zabbix/zabbix-proxy-sqlite3:6.0-centos-latest
 zabbix/zabbix-agent:6.0-centos-latest
@@ -48,8 +40,6 @@ zabbix/zabbix-build-sqlite3:6.0-centos-latest
 zabbix/zabbix-build-pgsql:6.0-centos-latest
 zabbix/zabbix-build-base:6.0-centos-latest
 zabbix/zabbix-build-mysql:6.0-centos-latest
-
-
 
 zabbix/zabbix-server-mysql:7.0-centos-latest
 zabbix/zabbix-proxy-sqlite3:7.0-centos-latest
