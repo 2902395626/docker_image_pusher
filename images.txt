@@ -1,1 +1,1 @@
-zabbix/zabbix-appliance:5.0-centos-latest
+zabbix/zabbix-web-service:5.0-centos-latest
