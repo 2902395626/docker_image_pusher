@@ -1,8 +1,3 @@
-mysql:latest
-nginx:latest
-tomcat:latest
-tomcat:latest-jdk8
-
 zabbix/zabbix-server-mysql:7.0-centos-latest
 zabbix/zabbix-proxy-sqlite3:7.0-centos-latest
 zabbix/zabbix-agent:7.0-centos-latest
@@ -20,5 +15,6 @@ zabbix/zabbix-build-pgsql:7.0-centos-latest
 zabbix/zabbix-build-base:7.0-centos-latest
 zabbix/zabbix-build-mysql:7.0-centos-latest
 
-
-
+mysql:latest
+nginx:latest
+tomcat:latest
