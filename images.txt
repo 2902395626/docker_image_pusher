@@ -1,12 +1,7 @@
 mysql:latest
-mysql:8.0.40
-mysql:8.4.1
-mysql:9.0.0
-tomcat:9.0.91
-tomcat:10.1.25
-mysql:5.7.28
-tomcat:9.0.90-jdk8
-
+nginx:latest
+tomcat:latest
+tomcat:latest-jdk8
 
 zabbix/zabbix-server-mysql:7.0-centos-latest
 zabbix/zabbix-proxy-sqlite3:7.0-centos-latest
