@@ -4,7 +4,7 @@
 mysql:latest
 nginx:latest
 tomcat:latest
-elasticsearch:latest
+#elasticsearch:latest
 
 #mysql:5.7.44
 #mysql:8.0.40
