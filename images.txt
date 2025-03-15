@@ -9,7 +9,7 @@ zabbix/zabbix-web-apache-mysql:5.0-centos-latest
 zabbix/zabbix-agent2:5.0-centos-latest
 zabbix/zabbix-java-gateway:5.0-centos-latest
 zabbix/zabbix-web-apache-pgsql:5.0-centos-latest
-zabbix/zabbix-web-service:5.0-centos-latest
+#zabbix/zabbix-web-service:5.0-centos-latest
 zabbix/zabbix-build-sqlite3:5.0-centos-latest
 zabbix/zabbix-build-pgsql:5.0-centos-latest
 zabbix/zabbix-build-base:5.0-centos-latest
