@@ -1,4 +1,7 @@
 
+mysql:5.7.44
+
+
 zabbix/zabbix-server-mysql:5.0-centos-latest
 zabbix/zabbix-proxy-sqlite3:5.0-centos-latest
 zabbix/zabbix-agent:5.0-centos-latest
