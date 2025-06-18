@@ -82,6 +82,9 @@ tomcat:latest
 redis:latest
 apache/kafka:latest
 
+mysql:8.0.42
+
+
 #mysql:5.7.44
 #mysql:8.0.40
 #mysql:8.4.1
