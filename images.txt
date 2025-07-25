@@ -86,7 +86,7 @@ tomcat:latest
 redis:latest
 apache/kafka:latest
 
-nginx:1.27.4
+#nginx:1.27.4
 
 
 
