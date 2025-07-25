@@ -85,7 +85,6 @@ nginx:latest
 tomcat:latest
 redis:latest
 apache/kafka:latest
-
 #nginx:1.27.4
 #mysql:5.7.44
 #mysql:8.0.40
