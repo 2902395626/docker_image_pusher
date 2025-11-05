@@ -1,31 +1,31 @@
 #openjdk:8.431
 openjdk:8-jdk-alpine
-mysql:8.0.43
-tomcat:9.0.111-jdk8
+#mysql:8.0.43
+tomcat:9.0.110-jdk8
 
 
 ###################################################### 
 ################## zabbix6镜像文件 ####################
 ######################################################
-zabbix/zabbix-server-mysql:centos-6.0.41
-zabbix/zabbix-proxy-sqlite3:centos-6.0.41
-zabbix/zabbix-agent:centos-6.0.41
-zabbix/zabbix-web-nginx-mysql:centos-6.0.41
-zabbix/zabbix-proxy-mysql:centos-6.0.41
-zabbix/zabbix-web-nginx-pgsql:centos-6.0.41
-zabbix/zabbix-web-apache-mysql:centos-6.0.41
-zabbix/zabbix-agent2:centos-6.0.41
-zabbix/zabbix-java-gateway:centos-6.0.41
-zabbix/zabbix-web-apache-pgsql:centos-6.0.41
-zabbix/zabbix-web-service:centos-6.0.41
-zabbix/zabbix-build-sqlite3:centos-6.0.41
-zabbix/zabbix-build-pgsql:centos-6.0.41
-zabbix/zabbix-build-base:centos-6.0.41
-zabbix/zabbix-build-mysql:centos-6.0.41
-#zabbix/zabbix-appliance:centos-6.0.41
-zabbix/zabbix-server-pgsql:centos-6.0.41
-zabbix/zabbix-snmptraps:centos-6.0.41
+#zabbix/zabbix-server-mysql:centos-6.0.41
+#zabbix/zabbix-proxy-sqlite3:centos-6.0.41
+#zabbix/zabbix-agent:centos-6.0.41
+#zabbix/zabbix-web-nginx-mysql:centos-6.0.41
+#zabbix/zabbix-proxy-mysql:centos-6.0.41
+#zabbix/zabbix-web-nginx-pgsql:centos-6.0.41
+#zabbix/zabbix-web-apache-mysql:centos-6.0.41
+#zabbix/zabbix-agent2:centos-6.0.41
+#zabbix/zabbix-java-gateway:centos-6.0.41
+#zabbix/zabbix-web-apache-pgsql:centos-6.0.41
+#zabbix/zabbix-web-service:centos-6.0.41
+#zabbix/zabbix-build-sqlite3:centos-6.0.41
+#zabbix/zabbix-build-pgsql:centos-6.0.41
+#zabbix/zabbix-build-base:centos-6.0.41
+#zabbix/zabbix-build-mysql:centos-6.0.41
+#zabbix/zabbix-server-pgsql:centos-6.0.41
+#zabbix/zabbix-snmptraps:centos-6.0.41
 ###################################################### 
+#zabbix/zabbix-appliance:centos-6.0.41
 ###################################################### 
 
 
