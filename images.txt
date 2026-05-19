@@ -3,7 +3,7 @@
 #mysql:8.0.43
 tomcat:9.0.111-jdk8
 # tomcat:9.0.111-jdk8-corretto-alpine
-
+eclipse-temurin:8-jdk-noble
 
 ###################################################### 
 ################## zabbix6镜像文件 ####################
