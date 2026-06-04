@@ -4,6 +4,8 @@
 tomcat:9.0.111-jdk8
 # tomcat:9.0.111-jdk8-corretto-alpine
 eclipse-temurin:8-jdk-noble
+cloudbeaver:latest
+
 
 ###################################################### 
 ################## zabbix6镜像文件 ####################
