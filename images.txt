@@ -1,10 +1,10 @@
 #openjdk:8.431
 #openjdk:8-jdk-alpine
 #mysql:8.0.43
-tomcat:9.0.111-jdk8
+#tomcat:9.0.111-jdk8
 # tomcat:9.0.111-jdk8-corretto-alpine
-eclipse-temurin:8-jdk-noble
-cloudbeaver:latest
+#eclipse-temurin:8-jdk-noble
+#cloudbeaver:latest
 
 
 ###################################################### 
@@ -33,25 +33,57 @@ cloudbeaver:latest
 
 
 ###################################################### 
+################## zabbix5镜像文件 ####################
+######################################################
+#5.0最后更新的版本
+zabbix/zabbix-server-mysql:alpine-5.0.47
+zabbix/zabbix-proxy-sqlite3:alpine-5.0.47
+zabbix/zabbix-agent:alpine-5.0.47
+zabbix/zabbix-web-nginx-mysql:alpine-5.0.47
+zabbix/zabbix-proxy-mysql:alpine-5.0.47
+zabbix/zabbix-web-nginx-pgsql:alpine-5.0.47
+zabbix/zabbix-web-apache-mysql:alpine-5.0.47
+zabbix/zabbix-agent2:alpine-5.0.47
+zabbix/zabbix-java-gateway:alpine-5.0.47
+zabbix/zabbix-web-apache-pgsql:alpine-5.0.47
+zabbix/zabbix-build-sqlite3:alpine-5.0.47
+zabbix/zabbix-build-pgsql:alpine-5.0.47
+zabbix/zabbix-build-base:alpine-5.0.47
+zabbix/zabbix-build-mysql:alpine-5.0.47
+zabbix/zabbix-server-pgsql:alpine-5.0.47
+zabbix/zabbix-snmptraps:alpine-5.0.47
+
+
+
+
+
+
+
+
+
+
+
+
+###################################################### 
 ################## zabbix7镜像文件 ####################
 ######################################################
-zabbix/zabbix-server-mysql:centos-7.0.18
-zabbix/zabbix-proxy-sqlite3:centos-7.0.18
-zabbix/zabbix-agent:centos-7.0.18
-zabbix/zabbix-web-nginx-mysql:centos-7.0.18
-zabbix/zabbix-proxy-mysql:centos-7.0.18
-zabbix/zabbix-web-nginx-pgsql:centos-7.0.18
-zabbix/zabbix-web-apache-mysql:centos-7.0.18
-zabbix/zabbix-agent2:centos-7.0.18
-zabbix/zabbix-java-gateway:centos-7.0.18
-zabbix/zabbix-web-apache-pgsql:centos-7.0.18
-zabbix/zabbix-web-service:centos-7.0.18
-zabbix/zabbix-build-sqlite3:centos-7.0.18
-zabbix/zabbix-build-pgsql:centos-7.0.18
-zabbix/zabbix-build-base:centos-7.0.18
-zabbix/zabbix-build-mysql:centos-7.0.18
-zabbix/zabbix-server-pgsql:centos-7.0.18
-zabbix/zabbix-snmptraps:centos-7.0.18
+#zabbix/zabbix-server-mysql:centos-7.0.18
+#zabbix/zabbix-proxy-sqlite3:centos-7.0.18
+#zabbix/zabbix-agent:centos-7.0.18
+#zabbix/zabbix-web-nginx-mysql:centos-7.0.18
+#zabbix/zabbix-proxy-mysql:centos-7.0.18
+#zabbix/zabbix-web-nginx-pgsql:centos-7.0.18
+#zabbix/zabbix-web-apache-mysql:centos-7.0.18
+#zabbix/zabbix-agent2:centos-7.0.18
+#zabbix/zabbix-java-gateway:centos-7.0.18
+#zabbix/zabbix-web-apache-pgsql:centos-7.0.18
+#zabbix/zabbix-web-service:centos-7.0.18
+#zabbix/zabbix-build-sqlite3:centos-7.0.18
+#zabbix/zabbix-build-pgsql:centos-7.0.18
+#zabbix/zabbix-build-base:centos-7.0.18
+#zabbix/zabbix-build-mysql:centos-7.0.18
+#zabbix/zabbix-server-pgsql:centos-7.0.18
+#zabbix/zabbix-snmptraps:centos-7.0.18
 
 #下面的没有
 #zabbix/zabbix-appliance:7.0-centos-latest
@@ -61,23 +93,23 @@ zabbix/zabbix-snmptraps:centos-7.0.18
 ###################################################### 
 ################## zabbix7镜像文件 ####################
 ######################################################
-zabbix/zabbix-server-mysql:centos-7.4.2
-zabbix/zabbix-proxy-sqlite3:centos-7.4.2
-zabbix/zabbix-agent:centos-7.4.2
-zabbix/zabbix-web-nginx-mysql:centos-7.4.2
-zabbix/zabbix-proxy-mysql:centos-7.4.2
-zabbix/zabbix-web-nginx-pgsql:centos-7.4.2
-zabbix/zabbix-web-apache-mysql:centos-7.4.2
-zabbix/zabbix-agent2:centos-7.4.2
-zabbix/zabbix-java-gateway:centos-7.4.2
-zabbix/zabbix-web-apache-pgsql:centos-7.4.2
-zabbix/zabbix-web-service:centos-7.4.2
-zabbix/zabbix-build-sqlite3:centos-7.4.2
-zabbix/zabbix-build-pgsql:centos-7.4.2
-zabbix/zabbix-build-base:centos-7.4.2
-zabbix/zabbix-build-mysql:centos-7.4.2
-zabbix/zabbix-server-pgsql:centos-7.4.2
-zabbix/zabbix-snmptraps:centos-7.4.2
+#zabbix/zabbix-server-mysql:centos-7.4.2
+#zabbix/zabbix-proxy-sqlite3:centos-7.4.2
+#zabbix/zabbix-agent:centos-7.4.2
+#zabbix/zabbix-web-nginx-mysql:centos-7.4.2
+#zabbix/zabbix-proxy-mysql:centos-7.4.2
+#zabbix/zabbix-web-nginx-pgsql:centos-7.4.2
+#zabbix/zabbix-web-apache-mysql:centos-7.4.2
+#zabbix/zabbix-agent2:centos-7.4.2
+#zabbix/zabbix-java-gateway:centos-7.4.2
+#zabbix/zabbix-web-apache-pgsql:centos-7.4.2
+#zabbix/zabbix-web-service:centos-7.4.2
+#zabbix/zabbix-build-sqlite3:centos-7.4.2
+#zabbix/zabbix-build-pgsql:centos-7.4.2
+#zabbix/zabbix-build-base:centos-7.4.2
+#zabbix/zabbix-build-mysql:centos-7.4.2
+#zabbix/zabbix-server-pgsql:centos-7.4.2
+#zabbix/zabbix-snmptraps:centos-7.4.2
 
 #下面的没有
 #zabbix/zabbix-appliance:7.0-centos-latest
@@ -88,11 +120,11 @@ zabbix/zabbix-snmptraps:centos-7.4.2
 ###################################################### 
 ################## 中间件 镜像文件 ####################
 ######################################################
-mysql:latest
-nginx:latest
-tomcat:latest
-redis:latest
-apache/kafka:latest
+#mysql:latest
+#nginx:latest
+#tomcat:latest
+#redis:latest
+#apache/kafka:latest
 
 ###################################################### 
 ###################################################### 
